@@ -1,6 +1,6 @@
 Pillow==6.0.0
 PyAutoGUI==0.9.44
-PyMsgBox==1.0.6
 PyScreeze==0.1.22
+PyMsgBox==1.0.7
 PyTweening==1.0.3
 websockets==7.0
